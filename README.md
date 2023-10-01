@@ -10,7 +10,7 @@ The copyright and intellectual property rights to these images and media remain 
 If you are the copyright owner of any content included in this repository and believe that its use here constitutes copyright infringement, please contact us immediately so that we can address your concerns. We are committed to resolving any copyright issues promptly.
 
 **Contact Information:**
-- Jeevan Pawar (mailto:jeevanpawar5890@gmial.com)
+- Jeevan Pawar (mailto:jeevanpawar5890@gmail.com)
 - jeevan6996 (https://github.com/jeevan6996)
 
 We respect the rights of copyright owners and are dedicated to complying with all applicable copyright laws and regulations. Thank you for your understanding and cooperation.
