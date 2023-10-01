@@ -1,0 +1,117 @@
+body
+{
+	margin:0;
+	padding:0;
+	background-image: url(Images/lightblue1.jpg);
+	background-size:cover;
+	font-family:sans-serif;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+
+button {
+ 	border:1px;
+	outline:none;
+	height:40px;
+	color:#fff;
+	font-size:16px;
+	background:#0066cc;
+	cursor:pointer;
+	border-radius:20px;
+}
+button:hover
+{
+	background:#6584c6;
+	color:#262626;
+}
+
+.user
+{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+	overflow:hidden;
+	position:absolute;
+	top:calc(-100px/2);
+	left:calc(50% - 50px);
+}
+
+h2
+{
+	margin:0;
+	padding:0,0,20px;
+	color:darkblue;
+	text-align:center;
+}
+
+h1
+{
+	margin:0;
+	padding:0,0,20px;
+	color:darkblue;
+	text-align:center;
+}
+
+h3
+{
+	margin:0;
+	padding:0,0,20px;
+	color:darkblue;
+	text-align:center;
+}
+
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position:fixed;
+    width : 100%;
+}
+li.flt {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+h2.func
+{
+	float:right;
+	margin-right:5%;	
+}	
+
+.reportframe
+{
+	width:95%;
+	height:600px;
+	margin-top:5%;
+	margin-left:2%;
+	margin-bottom :10%;
+	background-color:transparent;
+	border:2px solid black;
+}	
+
+.funcframe
+{
+	width:20%;
+	height:300px;
+	float:right;
+	margin-top:5%;
+	margin-right:5%;
+	margin-bottom :10%;
+	background-color:transparent;
+	border:0px solid;
+	text-align:center;
+}	

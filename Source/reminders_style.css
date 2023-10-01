@@ -1,0 +1,88 @@
+/* Basic Style */
+body {
+
+	margin:0;
+	padding:0;
+	background-image: url(Images/lightblue1.jpg);
+	background-size:cover;
+  	font-family: Lato, sans-serif;
+  	background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+
+.signupbox
+{
+	position:absolute;
+	top:14%;
+	left:15%;
+	width:1000px;
+	padding:80px 40px;
+	box-sizing:border-box;
+	background:lightblue;
+}
+
+
+	
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position:fixed;
+    width : 100%;
+    z-index:1; 	
+}
+
+
+li.flt {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+hr
+{
+	color:white;
+}	
+
+h1
+{
+	margin:0;
+	padding:0,0,20px;
+	color:darkblue;
+	text-align:center;
+}
+
+h2
+{
+	margin:0;
+	padding:0,0,20px;
+	color:black;
+	text-align:center;
+}
+
+h3
+{
+	margin:0;
+	padding:0,0,20px;
+	color:black;
+	text-align:center;
+}
+
+.my
+{
+  display:none;
+}
+
